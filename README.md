@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 1: Intro and Set Up
  
 * Intro to Web Dev 
 * Intro to the project
@@ -7,6 +7,28 @@
     * python
     * flask
     * venv
+    * source activate mc_env/bin/activate
 * Test flask app (verify the dependencies and installations)
+* export FLASK_APP=microcourse.py
+* flask run
 
 
+
+# Chapter 2: Templates
+
+*  user mockup
+* Concern separation  
+    * app logic
+    * app presentation
+* index.html
+* render_template
+* Template Inheritance
+
+# Chapter 3: Webforms
+
+* flask-WTF
+* Secret KEY -> CSRF
+* login template
+* getting forms data
+* Validation Errors
+* url_for

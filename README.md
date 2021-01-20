@@ -32,3 +32,10 @@
 * getting forms data
 * Validation Errors
 * url_for
+
+
+# Chapter 4: database
+
+* pip install flask-sqlalchemy
+* pip install flask-migrate
+

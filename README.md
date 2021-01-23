@@ -39,3 +39,8 @@
 * pip install flask-sqlalchemy
 * pip install flask-migrate
 
+# Chapter 5: User Logins
+
+* password hashing
+* flask login
+* flask 

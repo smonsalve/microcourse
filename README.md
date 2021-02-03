@@ -44,3 +44,17 @@
 * password hashing
 * flask login
 * flask 
+
+# Chapter 6: Profile Page and Avatars
+
+* 
+* 
+
+# Chapter 7: Error handling
+
+* Error handling
+* Debug Mode
+* Custom Error Pages
+* Sending Errors by Email
+* Logging to a file
+* Duplicate username
